@@ -1,0 +1,20 @@
+[
+  {
+    "pk": 1, 
+    "model": "auth.user", 
+    "fields": {
+      "username": "admin", 
+      "first_name": "Kevin", 
+      "last_name": "De Baere", 
+      "is_active": true, 
+      "is_superuser": true, 
+      "is_staff": true, 
+      "last_login": "2012-10-31T18:08:12Z", 
+      "groups": [], 
+      "user_permissions": [], 
+      "password": "pbkdf2_sha256$10000$gcrdaIU9TQRG$NdWbhVhresGtG4wLiDsYfWCHg48sTFNXP6M2hBBTxs4=", 
+      "email": "kevin_debaere@hotmail.com", 
+      "date_joined": "2012-10-31T18:07:10Z"
+    }
+  }
+]
