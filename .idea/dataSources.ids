@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><component name="dataSourceStorage">
+  <data-source source="LOCAL" name="Django default" product="" version="" jdbc-version="" driver-name="" driver-version="" uuid="4aaa9c48-4b9a-401b-9e24-e929cf98e957">
+    <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+    <jdbc-url>jdbc:sqlite:/Users/Kevin/tdd/mysite/database.sqlite</jdbc-url>
+    <libraries>
+      <library>
+        <url>file://$USER_HOME$/Library/Preferences/PyCharm20/jdbc-drivers/xerial-sqlite-license.txt</url>
+      </library>
+      <library>
+        <url>jar://$USER_HOME$/Library/Preferences/PyCharm20/jdbc-drivers/sqlite-jdbc-3.7.2.jar!/</url>
+      </library>
+    </libraries>
+  </data-source>
+</component>

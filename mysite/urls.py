@@ -6,6 +6,8 @@ admin.autodiscover()
 
 urlpatterns = patterns('',
     # Examples:
+    url(r'^$', 'polls.views.home'),
+    url(r'^poll/(\d+)/$', 'polls.views.poll'),
     # url(r'^$', 'mysite.views.home', name='home'),
     # url(r'^mysite/', include('mysite.foo.urls')),
 
